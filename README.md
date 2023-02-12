@@ -1,0 +1,12 @@
+# -Library-mangement-System
+
+Description: 
+The library management system will provide both the librarian and student with the login details. The librarian has fixed credentials, as in all the librarians have the same login details. If the student is a new user, he can register and create a new account. If he is an existing user, he can login into the account using his credentials. The librarian can add a book, add a publisher, add a category, add an author, edit the books in the library and accept or decline the book order placed by the student. He can also check the stock of the book and delete the book if it is out of stock and view all the books present in all books tab, these are the functions of the librarian. The student can search the book with the ISBN, title, publisher and author using the author. He can then place an order for the book using the lend option and has a due date of 2 weeks and can check the stock. After the librarian accepts the students order, the student can view the issue date, due date and fine amount in my books tab. He can also view all the books in All books tab. If there is any due amount that must be paid by the student, the amount will reflect on the page. The student then must click on return and pay if he has any dues in order to return the book. If there are no dues to be paid, the student can click on return to return the book.
+
+Library management system is a software built to deal with the primary home tasks functions of a library. Libraries rely on library control structures to manage asset collections in addition to relationships with their members. Library management structures assist libraries hold track of the books and their checkouts, in addition to individuals’ subscriptions and profiles.
+Library management systems additionally involve preserving the database for getting into new books and recording books which have been borrowed with their respective due dates.
+1.	Any library member should be able to search books by their title, author, subject category as well by the publication date.
+2.	Each book will have a unique identification number 
+3.	There could be more than one copy of a book, and library members should be able to check-out and reserve any copy. We will call each copy of a book, a book item.
+4.	The system should be able to retrieve information like who took a particular book or what are the books checked-out by a specific library member.
+5.	The system should be able to collect fines for books returned after the due date.
